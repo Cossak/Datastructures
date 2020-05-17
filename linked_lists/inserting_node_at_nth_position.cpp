@@ -23,7 +23,7 @@ Node* head;  //pointer to head-node
 */
 
 void at_head(int x){
-    /*Inserts node at the start of the list
+    /*Inserts a node at the start of the list
     Note that every new value added to the list preceeds the
     previous one, rather than succeeding it in the list*/
     Node* temp = new Node();
